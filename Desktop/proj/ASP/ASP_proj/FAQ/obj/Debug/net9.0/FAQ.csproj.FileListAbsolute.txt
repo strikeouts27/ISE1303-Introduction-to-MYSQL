@@ -1,0 +1,10 @@
+C:\Users\Andrew\Desktop\proj\ASP\ASP_proj\FAQ\obj\Debug\net9.0\FAQ.csproj.AssemblyReference.cache
+C:\Users\Andrew\Desktop\proj\ASP\ASP_proj\FAQ\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Andrew\Desktop\proj\ASP\ASP_proj\FAQ\obj\Debug\net9.0\FAQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrew\Desktop\proj\ASP\ASP_proj\FAQ\obj\Debug\net9.0\FAQ.AssemblyInfoInputs.cache
+C:\Users\Andrew\Desktop\proj\ASP\ASP_proj\FAQ\obj\Debug\net9.0\FAQ.AssemblyInfo.cs
+C:\Users\Andrew\Desktop\proj\ASP\ASP_proj\FAQ\obj\Debug\net9.0\FAQ.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Desktop\proj\ASP\ASP_proj\FAQ\obj\Debug\net9.0\FAQ.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Andrew\Desktop\proj\ASP\ASP_proj\FAQ\obj\Debug\net9.0\FAQ.RazorAssemblyInfo.cache
+C:\Users\Andrew\Desktop\proj\ASP\ASP_proj\FAQ\obj\Debug\net9.0\FAQ.RazorAssemblyInfo.cs
+C:\Users\Andrew\Desktop\proj\ASP\ASP_proj\FAQ\obj\Debug\net9.0\FAQ.sourcelink.json
