@@ -1,7 +1,15 @@
+using Microsoft.EntityFrameworkCore;
+using FAQ.Models;
+using FAQ.Data.FAQContext;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+// Add EF Core DI 
+builder.Services.AddDbContext<FAQContext>(options => options.UseSqlServer(
+    builder.Configuration.GetConnectionString("FAQContext"))); 
 
 var app = builder.Build();
 
